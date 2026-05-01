@@ -12,7 +12,7 @@
 
 ```bash
 # 方式一：复制到 ~/.claude/skills/
-git clone https://github.com/your-username/chinese-study-plan-skill.git
+git clone https://github.com/zimvir/chinese-study-plan-skill.git
 cp -r chinese-study-plan-skill ~/.claude/skills/chinese-study-plan-skill
 
 # 方式二：直接在项目目录使用
