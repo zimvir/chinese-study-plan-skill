@@ -1,0 +1,53 @@
+fields:
+  - name: 方法名称
+    description: 核心方法/技巧的名称
+    detail_level: 极简
+
+  - name: 核心原理
+    description: 该方法背后的科学原理或底层逻辑
+    detail_level: 简要
+
+  - name: 适用场景
+    description: 在什么情境下使用最有效（如：制定年计划/制定周计划/每日执行/期末复盘）
+    detail_level: 简要
+
+  - name: 具体步骤
+    description: 操作的详细步骤（可执行的操作清单）
+    detail_level: 详细
+
+  - name: 时间成本
+    description: 入门所需时间、每次使用所需时间
+    detail_level: 简要
+
+  - name: 对用户适配度
+    description: 与用户情况的匹配程度（高/中/低）及原因
+    detail_level: 详细
+    note: 用户特征：高一下学生、目标浙大670+、当前350-400分、22:00到家、编程背景、红石思维框架
+
+  - name: 实施难点
+    description: 实施过程中最容易失败的地方
+    detail_level: 简要
+
+  - name: 效果显现周期
+    description: 多久能看到效果（如：1周/1个月/1学期）
+    detail_level: 简要
+
+  - name: 预期效果
+    description: 使用后能解决什么问题/带来什么改善
+    detail_level: 详细
+
+  - name: 与红石思维的整合
+    description: 如何与用户的"调查→追溯→修复→迭代→生效"框架配合
+    detail_level: 详细
+
+  - name: 与其他方法的配合
+    description: 和outline中其他方法的协同效应
+    detail_level: 简要
+
+  - name: 注意事项
+    description: 针对用户具体情况（如时间限制22:00到家、高中学业节奏） 的特殊提醒
+    detail_level: 详细
+
+uncertain:
+  - 各方法在高中具体场景下的最优参数（需用户反馈后调整）
+  - 各方法组合使用的协同效应参数

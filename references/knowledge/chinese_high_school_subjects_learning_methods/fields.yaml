@@ -1,0 +1,37 @@
+fields:
+  - name: 方法名称
+    description: 核心方法/技巧的名称
+    detail_level: 极简
+
+  - name: 核心原理
+    description: 该方法背后的科学原理或底层逻辑
+    detail_level: 简要
+
+  - name: 适用科目/模块
+    description: 该方法适用于哪些科目或具体模块
+    detail_level: 简要
+
+  - name: 具体步骤
+    description: 操作的详细步骤（可执行的操作清单）
+    detail_level: 详细
+
+  - name: 对用户适配度
+    description: 与用户情况的匹配程度（高/中/低）及原因
+    detail_level: 详细
+    note: 用户特征：高一下、目标浙大670+、当前350-400分、22:00到家、数学英语物理化学弱、编程背景
+
+  - name: 实施难点
+    description: 实施过程中最容易失败的地方
+    detail_level: 简要
+
+  - name: 效果显现周期
+    description: 多久能看到效果（如：1周/1个月/1学期）
+    detail_level: 简要
+
+  - name: 预期效果
+    description: 使用后能解决什么问题/带来什么改善
+    detail_level: 详细
+
+uncertain:
+  - 各科目在不同分数段的最优学习方法组合（需用户反馈后调整）
+  - 各科知识体系的具体细节内容（各省教材版本差异）

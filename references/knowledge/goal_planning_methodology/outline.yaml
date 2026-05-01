@@ -1,0 +1,58 @@
+topic: 从目标设定到反推分解到落地执行的方法论
+description: 涵盖目标设定、差距分解反推、任务分解、PDCA循环、红石迭代，以及如何将目标与每日行动挂钩的完整方法论体系
+
+items:
+  # 一、目标设定层
+  - name: SMART目标设定
+    description: Specific/Measurable/Achievable/Relevant/Time-bound，将大目标拆解为可执行的小目标
+  - name: OKR体系
+    description: Objectives & Key Results，目标与关键结果对齐的方法论
+  - name: 差距分析（Gap Analysis）
+    description: 从目标反推当前差距，量化"缺多少"
+  - name: KPI分解
+    description: 将大KPI拆解为可追踪的小KPI指标
+
+  # 二、反推规划层
+  - name: Backlog规划法
+    description: 从终点倒推所有必要步骤，常见于项目管理
+  - name: 里程碑逆向规划
+    description: 先定终极大目标，逆向设定每个里程碑节点
+  - name: 倒推时间轴法
+    description: 从deadline往前算，每个阶段必须完成什么
+  - name: 资源约束规划
+    description: 考虑时间/精力限制，反推每日/每周任务量
+
+  # 三、任务分解层
+  - name: WBS任务分解
+    description: Work Breakdown Structure，将大任务分解为可执行的小工作包
+  - name: 月周日分解法
+    description: 月目标→周计划→日执行，三层联动
+  - name: MIT每日优先级
+    description: Most Important Tasks，每天3个最重要的事
+  - name: 艾森豪威尔矩阵
+    description: 按紧急/重要二分，避免被紧急任务淹没
+
+  # 四、执行与复查层
+  - name: PDCA循环
+    description: Plan/Do/Check/Act，计划→执行→检查→改进
+  - name: 红石迭代
+    description: 调查→追溯→修复→迭代→生效（用户已有框架）
+  - name: 周复查机制
+    description: 每周复盘执行情况，对齐目标
+  - name: 月评估机制
+    description: 每月评估进度，调整下月计划
+
+  # 五、目标-行动挂钩
+  - name: Habit Loop习惯回路
+    description: Cue/Routine/Reward，将目标行动固化为习惯
+  - name: WOOP思维法
+    description: Wish/Outcome/Obstacle/Plan，让梦想落地为具体计划
+  - name: 执行意图
+    description: "如果X就Y"格式，目标转化为自动化执行
+  - name: 过程目标 vs 结果目标
+    description: 关注可控的过程而非不可控的结果
+
+execution:
+  batch_size: 3
+  items_per_agent: 5
+  output_dir: "未知"
